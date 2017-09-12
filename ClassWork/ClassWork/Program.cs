@@ -13,7 +13,7 @@ namespace ClassWork
             using (UserContext db = new UserContext())
             {
                 User user1 = new User {Name = "ivan" , Age = 32 };
-              
+                //commit serg
 
                 db.Users.Add(user1);
                 db.SaveChanges();
