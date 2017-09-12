@@ -1,0 +1,12 @@
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\obj\Debug\ClassWork.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+c:\users\дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\Database1.mdf
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\Database1_log.ldf
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\documents\visual studio 2017\Projects\ClassWork\ClassWork\bin\Debug\EntityFramework.SqlServer.xml
